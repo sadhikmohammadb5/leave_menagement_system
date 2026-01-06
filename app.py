@@ -262,8 +262,7 @@ def create_first_admin():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
-    
+    app.run()
 # username: admin
 # password: admin123    
 
