@@ -58,7 +58,7 @@ leave-management-system/
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 
 ```bash
 
@@ -67,15 +67,15 @@ git clone https://github.com/sadhikmohammadb5/leave_menagement_system.git
 
 
 
-2️⃣ Install Dependencies
+2️ Install Dependencies
 ```bash
 pip install flask
 ```
-3️⃣ Run the Application:
+3️ Run the Application:
 ```bash
 python app.py
 ```
-4️⃣ Initialize Admin Account:
+4️ Initialize Admin Account:
 ```bash
 
 Open the following URL once in your browser:
@@ -126,7 +126,7 @@ License:
 
 This project is developed for educational purposes.
 
-👨‍💻 Author
+ Author
 
 Sadhik mohammad
 Computer Science Student
