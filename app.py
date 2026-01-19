@@ -75,7 +75,7 @@ def register():
         username = request.form["username"]
         password = generate_password_hash(request.form["password"])
 
-        role = "employee"   # 🔒 FORCED ROLE
+        role = "employee"   # FORCED ROLE
 
         con = get_db()
         try:
